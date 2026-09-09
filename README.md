@@ -1,1 +1,0 @@
-# Clock-Domain-Crossing-Synchronizer-Coding-Styles
